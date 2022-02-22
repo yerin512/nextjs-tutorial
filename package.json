@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-study",
+  "name": "nextjs-tutorial",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,13 +11,9 @@
   "dependencies": {
     "next": "12.1.0",
     "react": "17.0.2",
-<<<<<<< HEAD
-    "react-dom": "17.0.2"
-=======
     "react-dom": "17.0.2",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^2.1.2"
->>>>>>> a733b7a57a55503206b1a7e74b4c52a00717ecc2
   },
   "devDependencies": {
     "eslint": "8.9.0",
