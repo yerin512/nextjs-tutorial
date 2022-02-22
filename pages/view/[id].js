@@ -1,11 +1,11 @@
 import React from 'react';
 
-const about = () => {
+const about2 = () => {
     return (
         <div>
-            about
+            ddds
         </div>
     );
 };
 
-export default about;
+export default about2;
